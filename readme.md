@@ -1,3 +1,4 @@
 - 👋 Hi, I'm @MishaStryzhka
 - 👀 I am interested in programming
 - 🌱 I am currently studying to be a Fullsteck developer
+- 📋  My first resume [https://mishastryzhka.github.io/resume/]
