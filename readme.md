@@ -4,7 +4,7 @@
 - 📫 How to reach me: misha.strizhcka@gmail.com
 - 📋 My first resume [https://mishastryzhka.github.io/resume/]
 - 💻 My first written site with html and css [https://mishastryzhka.github.io/goit-markup-hw-08/]
-- 💻 The site is still in progress, I am learning Java Script [https://mishastryzhka.github.io/SegWay-N-01/]
+- 💻 The site is still in progress, I am learning Java Script [...]
 
 ### My stack and tools
 
