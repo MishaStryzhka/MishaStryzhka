@@ -2,12 +2,12 @@
 - 👀 I am interested in programming
 - 🌱 I am currently studying to be a Fullsteck developer
 - 📫 How to reach me: misha.strizhcka@gmail.com
-- 📋 My first resume [Resume](https://mishastryzhka.github.io/resume/)
-- 💻 My first written site with html and css <a href="https://mishastryzhka.github.io/goit-markup-hw-08/">WebStudio</a></p>
-- 💻 The site is still in progress, I am learning Java Script <a href="https://mishastryzhka.github.io/goit-js-hw-11/">Search images.</a></p>
+- 📋 My first resume [Resume](https://mishastryzhka.github.io/resume/).
+- 💻 My first written site with html and css [WebStudio](https://mishastryzhka.github.io/goit-markup-hw-08/).
+- 💻 The site is still in progress, I am learning Java Script [Search images](https://mishastryzhka.github.io/goit-js-hw-11/).
 
 Team projects:
-- 💻 Our first HTML and CSS team project <a href="https://vendettich13.github.io/Ice-Cream/">Ice-Cream</a></p> link to GIT <a href="https://github.com/Vendettich13/Ice-Cream">Ice-Cream_Github</a></p>.
+- 💻 Our first HTML and CSS team project [Ice-Cream](https://vendettich13.github.io/Ice-Cream/). link to GIT [Ice-Cream_Github](https://github.com/Vendettich13/Ice-Cream).
 
 ### My stack and tools
 
