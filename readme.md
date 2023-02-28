@@ -8,6 +8,7 @@
 
 Team projects:
 - 💻 Our first HTML and CSS team project [https://vendettich13.github.io/Ice-Cream/] Link to GIT [https://github.com/Vendettich13/Ice-Cream]
+- <a href="https://vendettich13.github.io/Ice-Cream/">Ice-Cream</a></p>
 
 ### My stack and tools
 
