@@ -7,8 +7,7 @@
 - 💻 The site is still in progress, I am learning Java Script [...]
 
 Team projects:
-- 💻 Our first HTML and CSS team project [https://vendettich13.github.io/Ice-Cream/] Link to GIT [https://github.com/Vendettich13/Ice-Cream]
-- <a href="https://vendettich13.github.io/Ice-Cream/">Ice-Cream</a></p>
+- 💻 Our first HTML and CSS team project - <a href="https://vendettich13.github.io/Ice-Cream/">Ice-Cream</a></p> Link to GIT <a href="https://github.com/Vendettich13/Ice-Cream">Ice-Cream_Github</a></p>.
 
 ### My stack and tools
 
