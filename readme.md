@@ -4,10 +4,11 @@
 - 📫 How to reach me: misha.strizhcka@gmail.com
 - 📋 My first resume [Resume](https://mishastryzhka.github.io/resume/).
 - 💻 My first written site with html and css [WebStudio](https://mishastryzhka.github.io/goit-markup-hw-08/).
-- 💻 The site is still in progress, I am learning Java Script [Search images](https://mishastryzhka.github.io/goit-js-hw-11/).
+- 💻 The site is still in progress, I am learning JavaScript [Search images](https://mishastryzhka.github.io/goit-js-hw-11/).
 
 Team projects:
 - 💻 Our first HTML and CSS team project [Ice-Cream](https://vendettich13.github.io/Ice-Cream/). link to GIT [Ice-Cream_Github](https://github.com/Vendettich13/Ice-Cream).
+- 💻 Our first JavaScript team project [News](https://dopinit.github.io/The-Informer-by-Midnight-Sun/). link to GIT [News_Github](https://github.com/DOPinIT/The-Informer-by-Midnight-Sun).
 
 ### My stack and tools
 
