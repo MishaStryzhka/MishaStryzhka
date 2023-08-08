@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @MishaStryzhka
 - 👀 I am interested in programming
 - 🌱 I am currently studying to be a Fullsteck developer
-- 📫 How to reach me: misha.strizhcka@gmail.com
+- 📫 How to reach me: mykhailo.stryzhka@seznam.cz
 - 📋 My first resume [Resume](https://mishastryzhka.github.io/resume/). 🤣
 - 💻 My first written site with html and css [WebStudio](https://mishastryzhka.github.io/goit-markup-hw-08/).
 - 💻 This site is written in JavaScript: [Search images](https://mishastryzhka.github.io/goit-js-hw-11/).
