@@ -1,1 +1,3 @@
-[deploy in render.com](https://www.youtube.com/watch?v=39ngI2PF43Q)
+- [deploy API in render.com](https://www.youtube.com/watch?v=39ngI2PF43Q)
+- [Google autenification and Swagger documentation Rest Api](https://www.youtube.com/watch?v=oQaoymCOW8o)
+- 
