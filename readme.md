@@ -5,7 +5,7 @@
 - 📋 My first resume [Resume](https://mishastryzhka.github.io/resume/). 🤣
 - 💻 My first written site with html and css [WebStudio](https://mishastryzhka.github.io/goit-markup-hw-08/).
 - 💻 This site is written in JavaScript: [Search images](https://mishastryzhka.github.io/goit-js-hw-11/).
-- 💻 This site is written in React.js: [Phonebook](https://github.com/MishaStryzhka/goit-react-hw-08-phonebook). link to GIT [Phonebook_Github](https://mishastryzhka.github.io/goit-react-hw-08-phonebook/).
+- 💻 This site is written in React.js: [Phonebook](https://mishastryzhka.github.io/goit-react-hw-08-phonebook/). link to GIT [Phonebook_Github](https://github.com/MishaStryzhka/goit-react-hw-08-phonebook).
 - 💻 This server is written in Node.js: [API Phonebook Swagger in process](https://nodejs-homework-rest-api-rz1d.onrender.com/api-docs/). link to GIT [API Phonebook_Github](https://github.com/MishaStryzhka/nodejs-homework-rest-api).
 
 Team projects:
