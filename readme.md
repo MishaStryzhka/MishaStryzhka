@@ -46,7 +46,7 @@ Team projects:
 <br>
  <h1>In process</h1>
 
-          - DantistPortal -  [www.dantistportal.com](https://www.dantistportal.com/).
+- DantistPortal -  [www.dantistportal.com](https://www.dantistportal.com/).
    <br>
    GitHub:
  - [Front-End](https://github.com/MishaStryzhka/project-Front1v0),
