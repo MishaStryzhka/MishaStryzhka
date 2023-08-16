@@ -13,7 +13,7 @@ Team projects:
 - 💻 Our first JavaScript team project [News](https://dopinit.github.io/The-Informer-by-Midnight-Sun/). link to GIT [News_Github](https://github.com/DOPinIT/The-Informer-by-Midnight-Sun).
 - 💻 Our first React.js and Node.js team project:
        - [Your Pet](https://mishastryzhka.github.io/project-Fr7v6c5s/). link to GIT [Your Pet_Github](https://github.com/MishaStryzhka/project-Fr7v6c5s).
-       - [Swagger Your Pet](https://github.com/MishaStryzhka/project-BE7v6c5s). link to GIT [Your Pet_Github](https://project-be7v6c5s.onrender.com/api-docs/).
+       - [Your Pet_Github](https://github.com/MishaStryzhka/project-BE7v6c5s). link to GIT [Swagger Your Pet](https://project-be7v6c5s.onrender.com/api-docs/).
 
 ### My stack and tools
 
