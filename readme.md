@@ -50,4 +50,4 @@ Team projects:
    <br>
    GitHub: [Front-End](https://github.com/MishaStryzhka/project-Front1v0), [Back-End](https://github.com/MishaStryzhka/project-Back1v0).
   <br>
-   Swagger: [Documentation](https://project-back1v0.onrender.com).
+   Swagger: [Documentation](https://project-back1v0.onrender.com/api-docs/).
