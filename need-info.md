@@ -6,7 +6,7 @@
   
 - [ ??? Онбордінг](https://www.npmjs.com/package/@reactour/tour)
   
-- [creating a photo preview](https://developer.mozilla.org/en-US/docs/Web/API/URL/createObjectURL)
+- [creating a photo preview](https://developer.mozilla.org/en-US/docs/Web/API/URL/createObjectURL) - [react-easy-crop](https://www.npmjs.com/package/react-easy-crop)
   
 - [sending the file and the value of the form to the backend](https://developer.mozilla.org/en-US/docs/Web/API/FormData/FormData)
   
