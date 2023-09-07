@@ -14,19 +14,17 @@
   <br>
   <br>
 Team projects:
-- 💻 Our first HTML and CSS team project [Ice-Cream](https://vendettich13.github.io/Ice-Cream/). link to GIT [Ice-Cream_Github](https://github.com/Vendettich13/Ice-Cream).
-- 💻 Our first JavaScript team project [News](https://dopinit.github.io/The-Informer-by-Midnight-Sun/). link to GIT [News_Github](https://github.com/DOPinIT/The-Informer-by-Midnight-Sun).
 - 💻 Our first React.js and Node.js team project:
        - [Your Pet](https://mishastryzhka.github.io/project-Fr7v6c5s/). link to GIT [Your Pet-Front_Github](https://github.com/MishaStryzhka/project-Fr7v6c5s).
        - [Your Pet-BackEnd_Github](https://github.com/MishaStryzhka/project-BE7v6c5s). link to GIT [Swagger Your Pet](https://project-be7v6c5s.onrender.com/api-docs/).
-
+- 💻 Our first JavaScript team project [News](https://dopinit.github.io/The-Informer-by-Midnight-Sun/). link to GIT [News_Github](https://github.com/DOPinIT/The-Informer-by-Midnight-Sun).
+- 💻 Our first HTML and CSS team project [Ice-Cream](https://vendettich13.github.io/Ice-Cream/). link to GIT [Ice-Cream_Github](https://github.com/Vendettich13/Ice-Cream).
   <br>
-  <br>
-- 📋 My first resume [Resume](https://mishastryzhka.github.io/resume/). 🤣
-- 💻 My first written site with html and css [WebStudio](https://mishastryzhka.github.io/goit-markup-hw-08/).
-- 💻 This site is written in JavaScript: [Search images](https://mishastryzhka.github.io/goit-js-hw-11/).
-- 💻 This site is written in React.js: [Phonebook](https://mishastryzhka.github.io/goit-react-hw-08-phonebook/). link to GIT [Phonebook_Github](https://github.com/MishaStryzhka/goit-react-hw-08-phonebook).
 - 💻 This server is written in Node.js: [API Phonebook Swagger in process](https://nodejs-homework-rest-api-rz1d.onrender.com/api-docs/). link to GIT [API Phonebook_Github](https://github.com/MishaStryzhka/nodejs-homework-rest-api).
+- 💻 This site is written in React.js: [Phonebook](https://mishastryzhka.github.io/goit-react-hw-08-phonebook/). link to GIT [Phonebook_Github](https://github.com/MishaStryzhka/goit-react-hw-08-phonebook).
+- 💻 This site is written in JavaScript: [Search images](https://mishastryzhka.github.io/goit-js-hw-11/).
+- 💻 My first written site with html and css [WebStudio](https://mishastryzhka.github.io/goit-markup-hw-08/).
+- 📋 My first resume [Resume](https://mishastryzhka.github.io/resume/). 🤣
 
 
 ### My stack and tools
