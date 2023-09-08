@@ -1,4 +1,4 @@
-### <h1>👋 Hi, I'm @MishaStryzhka</h1>
+### <h1>👋 Hi, I'm @Mykhailo Stryzhka</h1>
 - 👀 I am interested in programming
 - 🌱 I am **FULL-STACK** developer.
 - 📫 How to reach me: **mykhailo.stryzhka@seznam.cz**
