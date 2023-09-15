@@ -6,7 +6,7 @@
   <br>
 ### In process
 
-- **DantistPortal** -  [www.dentistportal.net](https://www.dentistportal.net/).
+- **DentistPortal** -  [www.dentistportal.net](https://www.dentistportal.net/).
    <br>
    GitHub: [Front-End](https://github.com/MishaStryzhka/project-Front1v0), [Back-End](https://github.com/MishaStryzhka/project-Back1v0).
   <br>
