@@ -11,3 +11,5 @@
 - [sending the file and the value of the form to the backend](https://developer.mozilla.org/en-US/docs/Web/API/FormData/FormData)
   
 - [International phone number for React.<input/>](https://www.npmjs.com/package/react-phone-number-input)
+
+- [TypeScript - video YouTube](https://www.youtube.com/playlist?list=PLQ8x_VWW6AkvlMSxICuexWjk_vwfWbqG1)
