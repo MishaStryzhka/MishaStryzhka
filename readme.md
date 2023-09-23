@@ -1,4 +1,4 @@
-### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=32&duration=3000&pause=1500&color=575434&background=67534000&vCenter=true&width=435&height=35&lines=%F0%9F%91%8B+Hi%2C+I'm+Mykhailo+Stryzhka;Nice+to+meet+you...)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=32&duration=3000&pause=1000&color=575434&background=67534000&vCenter=true&width=630&height=35&lines=%F0%9F%91%8B+Hi%2C+I'm+Mykhailo+Stryzhka;Nice+to+meet+you...;How+to+reach+me%3A+mykhailo.stryzhka%40seznam.cz)](mailto:mykhailo.stryzhka@seznam.cz)
 - 👀 I'm learning TypeScript and MySQL
 - 🌱 I am **FULL-STACK** developer.
 - 📫 How to reach me: **mykhailo.stryzhka@seznam.cz**
