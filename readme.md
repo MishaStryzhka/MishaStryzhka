@@ -1,4 +1,4 @@
-### <h1>👋 Hi, I'm Mykhailo Stryzhka</h1>
+### <h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=32&duration=3000&pause=1000&color=575434&background=67534000&multiline=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Mykhailo+Stryzhka)](https://git.io/typing-svg)</h1>
 - 👀 I'm learning TypeScript and MySQL
 - 🌱 I am **FULL-STACK** developer.
 - 📫 How to reach me: **mykhailo.stryzhka@seznam.cz**
