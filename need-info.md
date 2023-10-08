@@ -13,5 +13,5 @@
 - [International phone number for React.<input/>](https://www.npmjs.com/package/react-phone-number-input)
 
 - [TypeScript - video YouTube](https://www.youtube.com/playlist?list=PLQ8x_VWW6AkvlMSxICuexWjk_vwfWbqG1)
-- 
+  
 - [RegEx. Регулярні вирази. - video YouTube](https://www.youtube.com/watch?v=bURRzKKgQaE)
