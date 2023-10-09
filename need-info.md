@@ -14,5 +14,5 @@
 
 - [TypeScript - video YouTube](https://www.youtube.com/playlist?list=PLQ8x_VWW6AkvlMSxICuexWjk_vwfWbqG1)
   
-- [RegEx. Регулярні вирази. - video YouTube](https://www.youtube.com/watch?v=bURRzKKgQaE)
-  `(^(?!.*[ЪЫЭъыэ])[а-яА-ЯіїєґІЇЄҐ -')]+$|^[a-zA-Z]+$)` Всі слова на українській мові або всі на англійській.
+- [RegEx. Регулярні вирази. - video YouTube](https://www.youtube.com/watch?v=bURRzKKgQaE)<br/>
+  "(^(?!.*[ЪЫЭъыэ])[а-яА-ЯіїєґІЇЄҐ -')]+$|^[a-zA-Z]+$)" - Всі слова на українській мові або всі на англійській.
