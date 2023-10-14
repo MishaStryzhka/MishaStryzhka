@@ -16,3 +16,6 @@
   
 - [RegEx. Регулярні вирази. - video YouTube](https://www.youtube.com/watch?v=bURRzKKgQaE)<br/>
   "(^(?!.*[ЪЫЭъыэ])[а-яА-ЯіїєґІЇЄҐ -')]+$|^[a-zA-Z]+$)" - Всі слова на українській мові або всі на англійській.
+
+- [How to Build a Cron Job Task Scheduler Using Node Cron in Node.js Full Tutorial](https://www.youtube.com/watch?v=KxPENgraciY) <br/>
+  Если вы юзаете субд posgres то render.com бесплатно пол года. Я использовал все работает. Там же и бек можно разместить, но он засыпает если 15 минут от клиента небыло запросов. И заново стартует несколько минут, что на фронтенде может ввести в ступор юзера при долгом лоадере или его отсутсвии. Это решается с помощью cron job.
