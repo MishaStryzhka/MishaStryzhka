@@ -37,6 +37,11 @@
   
 ### In process
 
+- [**AniraKids**](https://mishastryzhka.github.io/AniraKids_Front-end/).
+   <br>
+   GitHub: [Front-End](https://github.com/MishaStryzhka/AniraKids_Front-end), [Back-End](https://github.com/MishaStryzhka/AniraKids_Back-end).
+  <br>
+
 - [**Rohlik - Cars**](https://mishastryzhka.github.io/rohlik-car/).
    <br>
    GitHub: [Front-End](https://github.com/MishaStryzhka/rohlik-car), [Back-End](https://github.com/MishaStryzhka/rohlik-car_Back).
