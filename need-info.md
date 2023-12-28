@@ -1,6 +1,8 @@
 - [deploy API in render.com](https://www.youtube.com/watch?v=39ngI2PF43Q)
   
 - [Google Facebook autenification and Swagger documentation Rest Api](https://www.youtube.com/watch?v=oQaoymCOW8o)
+  
+- [deploy cloudflare react](https://www.youtube.com/watch?v=IlZPILaACGw)
 
 - [multilingualism for site](https://www.i18next.com/)
   
