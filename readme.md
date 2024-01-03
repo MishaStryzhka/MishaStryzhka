@@ -37,7 +37,7 @@
   
 ### In process
 
-- [**AniraKids**](https://mishastryzhka.github.io/AniraKids_Front-end/).
+- [**AniraKids**](https://www.anirakids.com).
    <br>
    GitHub: [Front-End](https://github.com/MishaStryzhka/AniraKids_Front-end), [Back-End](https://github.com/MishaStryzhka/AniraKids_Back-end).
   <br>
