@@ -37,7 +37,7 @@
   
 ### In process
 
-- [**AniraKids**](https://www.anirakids.com).
+- [**AniraKids.cz**](https://www.anirakids.com).
    <br>
    GitHub: [Front-End](https://github.com/MishaStryzhka/AniraKids_Front-end), [Back-End](https://github.com/MishaStryzhka/AniraKids_Back-end).
   <br>
@@ -47,7 +47,7 @@
    GitHub: [Front-End](https://github.com/MishaStryzhka/rohlik-car), [Back-End](https://github.com/MishaStryzhka/rohlik-car_Back).
   <br>
 
-- **DentistPortal** -  [www.dentistportal.net](https://www.dentistportal.net/).
+- [**DentistPortal.net**](https://www.dentistportal.net/).
    <br>
    GitHub: [Front-End](https://github.com/MishaStryzhka/project-Front1v0), [Back-End](https://github.com/MishaStryzhka/project-Back1v0).
   <br>
