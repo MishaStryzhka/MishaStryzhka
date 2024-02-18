@@ -1,8 +1,9 @@
-const location = useLocation();
+const [searchParams, setSearchParams] = useSearchParams(); //required 
 
-const removeParam = param => {
-    const { pathname, search } = location;
-    const params = new URLSearchParams(search);
-    params.delete(param);
-    return `${pathname}?${params.toString()}`;
+  const removeParam = param => {
+    setSearchParams(pref => {
+      const params = new URLSearchParams(pref);
+      params.delete(param);
+      return params;
+    });
   };
