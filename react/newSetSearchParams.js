@@ -1,4 +1,4 @@
-const [searchParams, setSearchParams] = useSearchParams();
+const [searchParams, setSearchParams] = useSearchParams(); //required 
 
 const newSetSearchParams = (key, value) => {
     setSearchParams(pref => {
