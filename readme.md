@@ -42,9 +42,9 @@
    GitHub: [Front-End](https://github.com/MishaStryzhka/AniraKids_Front-end), [Back-End](https://github.com/MishaStryzhka/AniraKids_Back-end).
   <br>
 
-- [**Rohlik - Cars**](https://mishastryzhka.github.io/rohlik-car/).
+- [**Help-Book**](https://mishastryzhka.github.io/help-book/).
    <br>
-   GitHub: [Front-End](https://github.com/MishaStryzhka/rohlik-car), [Back-End](https://github.com/MishaStryzhka/rohlik-car_Back).
+   GitHub: [Front-End](https://github.com/MishaStryzhka/help-book), [Back-End](https://github.com/MishaStryzhka/rohlik-car_Back).
   <br>
 
 - [**DentistPortal.net**](https://www.dentistportal.net/).
