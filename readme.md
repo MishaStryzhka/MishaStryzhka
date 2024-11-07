@@ -61,6 +61,7 @@
 - 💻 Our first HTML and CSS team project [**Ice-Cream**](https://vendettich13.github.io/Ice-Cream/). link to GIT [Ice-Cream_Github](https://github.com/Vendettich13/Ice-Cream).
   <br>
 ### Projects:
+- 💻 This calculator built with TypeScript and Tailwind: [**Calculator TypeScript and Tailwind**](https://github.com/MishaStryzhka/Calculator-TypeScript-and-Tailwind). link to GIT [Calculator_Github](https://mishastryzhka.github.io/Calculator-TypeScript-and-Tailwind/)
 - 💻 This landing is written with Tailwind: [**Harry-Potter**](https://mishastryzhka.github.io/Harry-Potter-a-TailWind/). link to GIT [Harry-Potter_Github](https://github.com/MishaStryzhka/Harry-Potter-a-TailWind)
 - 💻 This server is written in Node.js: [**API Phonebook Swagger in process**](https://nodejs-homework-rest-api-rz1d.onrender.com/api-docs/). link to GIT [API Phonebook_Github](https://github.com/MishaStryzhka/nodejs-homework-rest-api).
 - 💻 This site is written in React.js: [**Phonebook**](https://mishastryzhka.github.io/goit-react-hw-08-phonebook/). link to GIT [Phonebook_Github](https://github.com/MishaStryzhka/goit-react-hw-08-phonebook).
